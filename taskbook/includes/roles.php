@@ -8,4 +8,3 @@
  * @link     https://developer.wordpress.org/plugins/users/roles-and-capabilities/
  */
 
-
